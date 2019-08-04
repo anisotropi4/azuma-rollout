@@ -3,7 +3,7 @@
 LNER Azuma service start dates combined based on data from the LNER website [here](https://www.lner.co.uk/the-east-coast-experience/azuma-trains/azuma-schedule/)
 
 |Day of Week|Service Start Date|Time|Origin|Destination|
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 |Monday to Friday|15 May 2019|13:45|Leeds|London King's Cross|
 |Monday to Friday|27 May 2019|06:40|Leeds|London King's Cross|
 |Monday to Friday|27 May 2019|17:14|Leeds|London King's Cross|
